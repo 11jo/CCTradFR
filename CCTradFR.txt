@@ -305,6 +305,7 @@ TWM (polonais)
 [COLOR=Lime][B]Back to Brynnlaw [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Check the Bodies [/B][BG2, BGT, BG2EE, EET] (par Morkhan, La Voix 2 la Sagesse et Asa)[/COLOR] [url=http://www.shsforums.net/files/file/58-check-the-bodies/]Lien[/url]
 [COLOR=MediumTurquoise][B]CoM Encounters [/B][BG2, BGT, BG2EE] (par Thot)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=5.0]Lien[/url]
+[COLOR=Lime][B]Dungeon Crawl [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Dungeon_Crawl/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Eilistraee's Song [/B][BG2, BGT, BG2EE, EET] (par Lothringen)[/COLOR] [url=https://www.weaselmods.net/showthread.php?tid=27]Lien[/url]
 [COLOR=MediumTurquoise][B]Every Mod and Dog [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://www.gibberlings3.net/files/file/707-every-mod-and-dog/]Lien[/url]
 [COLOR=MediumTurquoise][B]Extension de la quête de Jan [/B][BG2, BGT, BG2EE, EET] (français, par Kasumi et Akadis)[/COLOR] [url=http://akadis.baldursgateworld.fr/Jan/JansQuestFr.html]Lien[/url]
@@ -603,7 +604,6 @@ Voices of faerun
 
 Ajoc's MiniMod
 Arena
-Dungeon Crawl
 Expanded Mage Strongold
 Expanded Thief Stronghold
 Fishing for Trouble
@@ -861,6 +861,7 @@ The G3 Debugging Suite
 The Horde
 The MTS Crappack
 Timestop Tweak
+ToB-Tourist Mod
 Tome & Blood
 Tougher Enemies tweak
 Transitions
@@ -1387,6 +1388,7 @@ Thieving Mod for IWDEE
 [COLOR=Lime]??/??/???? [B]Level Up Icon Tweaks[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]The Sellswords[/B] (par deratiseur et rivvers) (Entre les mains du concepteur) [/COLOR]
 [COLOR=Lime]??/??/???? [B]Back to Brynnlaw[/B] (par deratiseur) (Entre les mains du concepteur) [/COLOR]
+[COLOR=Lime]??/??/???? [B]Ascalons Questpack[/B] (par deratiseur, tonton-thon, Freddy_Gwendo et jazira) (En relecture) [/COLOR]
 
 
 
@@ -1400,11 +1402,12 @@ Thieving Mod for IWDEE
 [COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]24/05/2020 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon, Freddy_Gwendo et jazira)[/COLOR]
 [COLOR=Lime]07/08/2020 : traduction de [B]Endless BG1[/B] débutée (par Freddy_Gwendo)[/COLOR]
-[COLOR=Lime]19/08/2020 : traduction de [B]Ascalons Questpack[/B] (par deratiseur et jazira) [/COLOR]
+[COLOR=Lime]19/08/2020 : traduction de [B]Ascalons Questpack[/B] (par deratiseur, tonton-thon, Freddy_Gwendo et jazira) [/COLOR]
 [COLOR=Lime]19/08/2020 : traduction de [B]The Sellswords[/B] (par deratiseur et rivvers) [/COLOR]
 [COLOR=Lime]14/12/2020 : traduction de [B]Back to Brynnlaw[/B] (par deratiseur) [/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Freely Resizeable Combat Log[/B] (par jazira) [/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Level Up Icon Tweaks[/B] (par jazira) [/COLOR]
+[COLOR=Lime]13/02/2021 : traduction de [B]Dungeon Crawl [/B] (par deratiseur) [/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction/relecture ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
 De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP. Traducteurs et relecteurs, on n'a pas le même maillot mais on a la même passion.
