@@ -204,7 +204,6 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [B]Faster Baldur's Gate (Firewalker Lite) [/B] [BG1] (non-WeiDU) [url=https://sorcerers.net/Games/dl.php?s=BG&f=BG/Faster_BG.rar]Lien[/url]
 [B]Firewalker [/B] [BG1] (non-WeiDU) [url=http://swordcoastkeeper.chez-alice.fr/PageBG1ModulesEng.htm]Lien[/url]
 [B]Harden Coonors Tutu-AddOn [/B] [Tutu] // Catégorie ? Lien mort (http://www.rosenranken.de/index.php?board=36;action=display;threadid=4719)
-High Power Baldur's Gate
 Improved GUI
 Infinity Sounds
 Jaheira Recast
@@ -241,7 +240,8 @@ Xan's New Groove!
 [U][B]Ajouts de Sorts, de Magasins et d'Objets :[/B][/U]
 
 [B]Barbed Club of Pain [/B] [BGEE] [url=http://www.shsforums.net/files/file/1105-barbed-club-of-pain/]Lien[/url]
-[B]Convinient Ammunition [/B] [BG1, BGEE, BG2EE] url=http://www.shsforums.net/files/file/1046-convinient-ammunition/]Lien[/url]
+[B]Convinient Ammunition [/B] [BG1, BGEE, BG2EE] [url=http://www.shsforums.net/files/file/1046-convinient-ammunition/]Lien[/url]
+[B]High Power Baldur's Gate [/B] [BGEE + EEex] [url=https://github.com/OlvynChuru/High-Power-Baldurs-Gate]Lien[/url]
 
 [U][B]Nouveaux kits :[/B][/U]
 
@@ -272,7 +272,7 @@ TWM (polonais)
 [U][B]Conversions du moteur :[/B][/U]
 
 [COLOR=MediumTurquoise][B]Baldur's Gate Trilogy [/B][BGT] (par Anomaly)[/COLOR] [url=https://github.com/SpellholdStudios/BGT-WeiDU/releases]Lien[/url]
-[COLOR=MediumTurquoise][B]Enhanced Edition Trilogy [/B][EET] (par Isaya et Chevalier Noir)[/COLOR] [COLOR="#FF0000"](Partiellement traduit, SoD en anglais, relecture requise)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
+[COLOR=#FF0000][B]Enhanced Edition Trilogy [/B][EET] (par Isaya et Chevalier Noir) (Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/K4thos/EET/releases]Lien[/url]
 
 [U][B]Conversions totales ou partielles :[/B][/U]
 
@@ -403,6 +403,7 @@ TWM (polonais)
 [COLOR=MediumTurquoise][B]Tiax for BG2 (One-Day NPC) [/B][BG2, BGT, BG2EE, EET] (par Eleima)[/COLOR] [url=https://github.com/Pocket-Plane-Group/Tiax_for_BGII/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Totemic Cernd [/B][BG2, BGT] (par Isaya)[/COLOR] [url=hhttps://github.com/Gibberlings3/Totemic_Cernd/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Tsujatha Melalor [/B][BG2, BGT, BG2EE] (par La Voix 2 la Sagesse, Egrevyn et DarkWintermoon)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=46e9b11906c4c2d9e4e4a6334bb517e1&topic=4801.0]Lien[/url]
+[COLOR=Lime][B]Tyris Flare [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://www.gibberlings3.net/files/file/906-tyris-flare-npc/]Lien[/url]
 [COLOR=MediumTurquoise][B]Valen NPC [/B][BG2, BGT, BG2EE] (par Ly Meng, Laurent Duvernet et Cocobard)[/COLOR] [url=https://weidu.org/]Lien[/url] / [url=https://github.com/hellmouse/valen/releases]Lien BG2EE[/url]
 [COLOR=MediumTurquoise][B]Vampire Tales [/B][BG2, BGT, BG2EE] (par Shaywen et Zooloo)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?topic=3912.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Viconia Friendship [/B][BG2, BGT, BG2EE, EET] (par Ixion)[/COLOR] [url=https://github.com/SpellholdStudios/ViconiaFriendship/releases]Lien[/url]
@@ -751,7 +752,6 @@ The Undying
 The Vanishing of Skie Silvershield
 Touchstone
 Tsuki
-Tyris Flare
 Valygar Friendship
 Vanim NPC
 Varshoon
@@ -794,6 +794,7 @@ Easy Core Rules
 Eldritch Magic
 Elminster's Difficulty Adjustments Rough World
 Enchant the missile Launcher
+Enhanced Powergaming Scripts
 Experience cap remover and new hla for triclass
 Fake Import Mod Drizzt May Live Edition
 Fast trap detection
@@ -1409,7 +1410,8 @@ Thieving Mod for IWDEE
 [COLOR=Lime]14/12/2020 : traduction de [B]Back to Brynnlaw[/B] (par deratiseur) [/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Freely Resizeable Combat Log[/B] (par jazira) [/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Level Up Icon Tweaks[/B] (par jazira) [/COLOR]
-[COLOR=Lime]13/02/2021 : traduction de [B]Dungeon Crawl [/B] (par deratiseur) [/COLOR]
+[COLOR=Lime]13/02/2021 : traduction de [B]Dungeon Crawl[/B] (par deratiseur) [/COLOR]
+[COLOR=Lime]??/??/???? : traduction de [B]Tyris Flare[/B] (par Le Marquis) [/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction/relecture ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
 De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP. Traducteurs et relecteurs, on n'a pas le même maillot mais on a la même passion.
@@ -1427,5 +1429,6 @@ https://modlist.pocketplane.net/index.php
 http://www.forgottenwars.com/dudleyfix/bg1_tweaks.htm
 https://forums.beamdog.com/discussion/60717/mod-eeuitweaks-mod-collection-all-ee-v2-2-platforms/p1
 https://sorcerers.net/Games/BG/index_mods2.php
+https://docs.google.com/spreadsheets/d/1oGYHmwGdmaKC_V7FV3-BtkbvkuRfu1QAc5hAd4XxWvM/edit#gid=0
 - Ambitious man : Une liste pour les supplanter toutes !
 [/SPOILER]
