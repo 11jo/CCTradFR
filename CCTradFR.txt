@@ -256,7 +256,7 @@ TWM (polonais)
 
 [U][B]Traductions et corrections :[/B][/U]
 
-[COLOR=MediumTurquoise][B]Mod semi-officiel de traduction partielle de BG2EE [/B][BG2EE, EET] (français, par Isaya, Freddy_Gwendo, McGregor777, N3ige, Scylla, slip, sombrepiaf, Cruller et Leninator)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html]Lien[/url]
+[COLOR=MediumTurquoise][B]Mod semi-officiel de traduction partielle de BG2EE [/B][BG2EE, EET] (français, par La Voix 2 la sagesse, Isaya, Freddy_Gwendo, Luren, Graoumf, McGregor777, N3ige, Scylla, slip, sombrepiaf, zelurker, Cruller et Leninator.)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Patch correctif des textes pour Baldur's Gate 2 (et ToB) [/B][BG2, BGT, Tutu] (français, par Mornagest, Zekflop et Isaya)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24082-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-2-et-tob-en-vf.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Generalized Biffing [/B][BG1, BG2, BGT, Tutu, BGEE, BG2EE, EET, IWD1, IWDEE, IWD2, PST, PSTEE] (par Isaya)[/COLOR] [url=https://github.com/SpellholdStudios/generalized_biffing/releases]Lien[/url]
 
@@ -338,7 +338,7 @@ TWM (polonais)
 [COLOR=MediumTurquoise][B]Revised Battles [/B][BG2, BGT] (par Thot et Maël)[/COLOR] [url=http://www.shsforums.net/files/file/655-revised-battles-v63/]Lien[/url]
 [COLOR=MediumTurquoise][B]Slightly Improved Ilyich [/B][BG2, BGT] (par Lothringen)[/COLOR] [url=http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178]Lien[/url] 
 [COLOR=MediumTurquoise][B]Super Firkraag [/B][BG2, BGT, BG2EE, EET] (par Mathrim Cauthon)[/COLOR] [url=http://www.shsforums.net/files/file/1257-super-firkraag/]Lien[/url] 
-[COLOR="#FF0000"][B]Sword Coast Stratagems [/B][BGT, Tutu, BGEE, BG2EE, EET] (par Mornagest, Isaya, Graoumf, Freddy_Gwendo et jazira)(Nécessite une mise à jour de la traduction[/COLOR] / [COLOR=Lime]en cours par jazira)[/COLOR] [url=https://github.com/Gibberlings3/SwordCoastStratagems/releases]Lien[/url] 
+[COLOR=MediumTurquoise][B]Sword Coast Stratagems [/B][BGT, Tutu, BGEE, BG2EE, EET] (par Mornagest, Isaya, Graoumf, Freddy_Gwendo et jazira)[/COLOR] [url=https://github.com/Gibberlings3/SwordCoastStratagems/releases]Lien[/url] 
 [COLOR=MediumTurquoise][B]Tactics [/B][BG2, BGT, BG2EE] (par Ly Meng, Archange de la Redemption, Laurent Duvernet, Artemidore et Cocobard)[/COLOR] [url=https://weidu.org/tactics.html]Lien[/url] / [url=https://forums.beamdog.com/discussion/41242/tactics-mod-bg2ee-compatibility-conversion-and-beta-test]Lien BG2EE[/url] 
 [COLOR=MediumTurquoise][B]The Big Picture [/B][BG2, BGT, BG2EE] (par Graoumf et Ozymandias)[/COLOR] [url=http://www.shsforums.net/files/file/546-the-big-picture-v181/]Lien[/url]
 
@@ -385,7 +385,7 @@ TWM (polonais)
 [COLOR=MediumTurquoise][B]Mazzy Friendship [/B][BG2, BGT, BG2EE, EET] (par Ixion)[/COLOR] [url=https://github.com/SpellholdStudios/MazzyFriendship/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Mhoram NPC [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/769-mhoram-npc-v23/]Lien[/url]
 [COLOR=MediumTurquoise][B]NPC Flirt Packs [/B][BG2, BGT, BG2EE, EET] (par Thot, Garfield, Lothringen et Egrevyn)[/COLOR] [url=https://github.com/Pocket-Plane-Group/NPC_Flirt_Packs/releases]Lien[/url]
-[COLOR=Lime][B]NPC Generator [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-NPCGenerator/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]NPC Generator [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-NPCGenerator/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Romantic Encounters [/B][BG2, BGT, BG2EE, EET] (par Eleima, Galathée, Le Marquis et La Voix 2 la Sagesse)[/COLOR] [url=https://github.com/Gibberlings3/Romantic_Encounters_BG2/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Saerileth Romance [/B][BG2, BGT, BG2EE] (par Streen)[/COLOR] [COLOR="#FF0000"](Nécessite une relecture de la traduction, voir [url=https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/18950-Sortie-du-mod-saerileth-en-francais.html]ici[/url])[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?PHPSESSID=d2108e0ca16b209d8c838ab500cf0698&topic=4800.0]Lien[/url]
 [COLOR=MediumTurquoise][B]Sarah [/B][BG2, BGT, BG2EE, EET] (par Le Marquis)[/COLOR] [url=https://www.gibberlings3.net/files/file/898-sarah-npc-romance-mod-for-bg2-tob/]Lien[/url]
@@ -472,7 +472,7 @@ TWM (polonais)
 [COLOR=MediumTurquoise][B]Jan's Alchemy [/B][BG2, BG2EE] (par SkipCool)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Kaya, marchande de sorts [/B][BG2, BG2EE] (français, par Prof Errata)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/32088-personnage-non-joueur-Kaya-marchande-de-sorts-voici-mon-premier-mod.html]Lien[/url]
 [COLOR=MediumTurquoise][B]L'interplan [/B][BG2, BGT, BG2EE] (français, par deratiseur)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31563-magasin-l-Interplan-un-magasin-dedie-la-magie.html]Lien[/url]
-[COLOR=Lime][B]Magic Store of Vergadain  [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-MagicStore/releases]Lien[/url]
+[COLOR=MediumTurquoise][B]Magic Store of Vergadain  [/B][BG2, BGT, Tutu, BGEE, BG2EE, EET, IWDEE] (par deratiseur)[/COLOR] [url=https://github.com/Argent77/A7-MagicStore/releases]Lien[/url]
 [COLOR=MediumTurquoise][B]Mersetek le joaillier [/B][BG2, BG2EE] (français, par Archfiend)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-Mersetek-le-joaillier-v1-3-1-a.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Mortis Mini Mod [/B][BG2, BG2EE] (par Althéa)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Mystigan [/B][BG2, BG2EE] (français, par Akadis)[/COLOR] [url=http://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html]Lien[/url]
@@ -1389,6 +1389,9 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]16/05/2021 [B]Dungeon Crawl[/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]16/05/2021 [B]The Sellswords[/B] (par deratiseur et rivvers)[/COLOR]
 [COLOR=MediumTurquoise]09/09/2021 [B]Ascalons Questpack[/B] (par deratiseur, tonton-thon et jazira)[/COLOR]
+[COLOR=MediumTurquoise]16/09/2021 Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) [/COLOR]
+[COLOR=MediumTurquoise]10/10/2021 [B]Magic Store of Vergadain[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]10/10/2021 [B]NPC Generator[/B] (par deratiseur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Anthology Tweak[/B] (par Isaya, Freddy_Gwendo et jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Alora NPC[/B] (par tonton-thon, Freddy_Gwendo et jazira) (Entre les mains du concepteur, déjà disponible au téléchargement)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
@@ -1396,8 +1399,8 @@ Thieving Mod for IWDEE
 [COLOR=Lime]??/??/???? [B]Level Up Icon Tweaks[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Ascension[/B] (par Selphira et jazira) (En relecture)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Enhanced Edition Trilogy[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
-[COLOR=Lime]??/??/???? [B]Magic Store of Vergadain[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
-[COLOR=Lime]??/??/???? [B]NPC Generator[/B] (par deratiseur) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Endless BG1[/B] (par Shodead et Freddy_Gwendo) (En relecture)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Branwen for BG2[/B] (par JohnBob et jazira) (En relecture)[/COLOR]
 
 
 
@@ -1406,7 +1409,7 @@ Thieving Mod for IWDEE
 [COLOR="#FF0000"]15/11/2014 : traduction d'[B]Yvette Romance[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]12/04/2020 : traduction de [B]Tome & Blood[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]03/12/2020 : traduction de [B]Brage's Redemption[/B] débutée (En attente d'un repreneur)[/COLOR]
-[COLOR=Lime]04/04/2004 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (?)[/COLOR]
+[COLOR=Lime]04/04/2004 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (par Le Marquis)[/COLOR]
 [COLOR=Lime]18/06/2016 : traduction de [B]BG1 Romantic Encounters[/B] débutée (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
 [COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]24/05/2020 : traduction de [B]Alora NPC[/B] débutée (par tonton-thon, Freddy_Gwendo et jazira)[/COLOR]
@@ -1417,7 +1420,7 @@ Thieving Mod for IWDEE
 [COLOR=Lime]26/08/2021 : traduction de [B]Endless BG1[/B] débutée (par Shodead)[/COLOR]
 
 Cela vous dérange que votre nom soit cité lors d'une traduction/relecture ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
-De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP. Traducteurs et relecteurs, on n'a pas le même maillot mais on a la même passion.
+De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP.
 
 [SIZE=1]Ne pas cliquer ici ![/SIZE]
 [SPOILER]
