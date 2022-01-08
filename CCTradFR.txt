@@ -398,6 +398,7 @@ TWM (polonais)
 [COLOR=MediumTurquoise][B]Severian de Demerya [/B][BG2, BGT, BG2EE, EET] (français, par Coyote)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Sheena NPC, a half dragon tale [/B][BG2, BGT, BG2EE] (par Stargazer et Red Knight)[/COLOR] [url=http://dragonshoard.blackwyrmlair.net/download.php]Lien[/url] / [url=https://forums.beamdog.com/discussion/60784/npc-mod-sheena-the-half-dragon-tale]Lien BG2EE[/url]
 [COLOR=MediumTurquoise][B]Solaufein NPC [/B][BG2, BGT] (par Ly Meng, Archange de la Redemption, Cocobard, Laurent Duvernet, Artemidore, Banshee Sangdelune)[/COLOR] [url=https://weidu.org/]Lien[/url]
+[COLOR=Lime][B]Solaufein's Rescue [/B][BG2, BGT, BG2EE, EET] (par deratiseur)[/COLOR] [url=https://github.com/Gitjas/Solaufeins_Rescue_NPC/releases]Lien[/url]
 [COLOR=Lime][B]Summon Bhaalspawn Sandra [/B][BG2, BGT] (par JohnBob)[/COLOR] [url=http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=77]Lien[/url]
 [COLOR=MediumTurquoise][B]Thael NPC [/B][BG2, BGT] (par Althéa)[/COLOR] [url=http://www.shsforums.net/files/file/776-thael-npc-v-232/]Lien[/url]
 [COLOR=Lime][B]The beaurin legacy [/B][BG2, BGT, BG2EE, EET] (par Mera)[/COLOR] [url=https://www.gibberlings3.net/files/file/998-beaurin-legacy/]Lien[/url]
@@ -743,7 +744,6 @@ Skie - The Cost of One Girl's Soul
 Skooter NPC
 Smiling Imp's Cross Banter Mod
 Solaufein Flirt Pack
-Solaufein's Rescue
 Stivan the Hunter
 Swylif Thicc NPC
 Taim NPC (espagnol adapté en anglais)
@@ -1118,6 +1118,7 @@ Yeslick (allemand)
 [COLOR=MediumTurquoise][B]Night of the Blinking Dead [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/night-of-the-blinking-dead/]Lien[/url]
 [COLOR=MediumTurquoise][B]Tale of Our Lady Dreamless [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/tale-of-our-lady-dreamless/]Lien[/url]
 [COLOR=MediumTurquoise][B]Terror of the Skineater [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/terror-of-the-skineater/]Lien[/url]
+[COLOR=Lime][B]The Rediscovery of Kuldahar [/B][IWDEE] (par deratiseur)[/COLOR] [url=https://downloads.weaselmods.net/download/the-rediscovery-of-kuldahar/]Lien[/url]
 [COLOR=MediumTurquoise][B]Trial of the Luremaster [/B][IWD1] (traduction officielle)[/COLOR] [url=https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24779-patch-icewind-dale-heart-winter-v1-42-incluant-Trial-luremaster.html]Lien[/url]
 [COLOR=MediumTurquoise][B]Unfinished Business for IWD [/B][IWD1, EET, IWDEE] (par ForeverDream)[/COLOR] [url=https://github.com/Gibberlings3/iwd_unfinished_business/releases]Lien[/url]
 
@@ -1170,7 +1171,7 @@ Icewind Gate II
 
 [U][B]Modules de quêtes, nouvelles aventures et modifications des quêtes existantes :[/B][/U]
 
-[B]The Rediscovery of Kuldahar [/B][IWDEE] [url=https://downloads.weaselmods.net/download/the-rediscovery-of-kuldahar/]Lien[/url]
+-
 
 [U][B]Challenges tactiques :[/B][/U]
 
@@ -1342,12 +1343,6 @@ Thieving Mod for IWDEE
 
 [SIZE=4][COLOR=DarkRed][B]Sorties des nouvelles traductions / mises à jour :[/B][/COLOR][/SIZE]
 
-[COLOR="#FF0000"]16/05/2017 [B]Branwen for BG2[/B] (par shamou)[/COLOR]
-[COLOR=MediumTurquoise]19/06/2017 [B]Banter Accelerator for Enhanced Edition games[/B] (par Freddy_Gwendo)[/COLOR]
-[COLOR=MediumTurquoise]18/08/2017 [B]I Hate Undead[/B] (par Freddy_Gwendo)[/COLOR]
-[COLOR=MediumTurquoise]25/08/2017 [B]Improved Archer Kit[/B] (par Freddy_Gwendo)[/COLOR]
-[COLOR=MediumTurquoise]26/10/2017 [B]Convenient Enhanced Edition NPCs[/B] (par Freddy_Gwendo)[/COLOR]
-[COLOR=MediumTurquoise]26/10/2017 [B]Improved Shamanic Dance[/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]19/02/2018 [B]Militia Officer[/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]19/02/2018 [B]Mercenary[/B] (par Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]19/02/2018 [B]Charlatan[/B] (par Freddy_Gwendo)[/COLOR]
@@ -1364,7 +1359,6 @@ Thieving Mod for IWDEE
 [COLOR=MediumTurquoise]31/08/2019 [B]The Ooze Lounge[/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]06/01/2020 [B]Afaaq, the Djinni Companion[/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]01/05/2020 Mise à jour de [B]The Ooze lounge[/B] (par deratiseur)[/COLOR]
-[COLOR="#FF0000"]09/05/2020 [B]BG1 Romantic Encounters[/B] (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
 [COLOR=MediumTurquoise]28/05/2020 Mise à jour de [B]Alternatives[/B] (par Galathée et jazira)[/COLOR]
 [COLOR=MediumTurquoise]31/05/2020 Mise à jour de [B]Sword Coast Stratagems[/B] (par Freddy_Gwendo et jazira) [/COLOR]
 [COLOR=MediumTurquoise]01/06/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par Le Marquis et jazira)[/COLOR]
@@ -1434,6 +1428,9 @@ Thieving Mod for IWDEE
 [COLOR=Lime]17/12/2021 : traduction de [B]Road To Discovery[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]27/12/2021 : traduction de [B]Turnabout[/B] débutée (par Shodead et JohnBob)[/COLOR]
 [COLOR=Lime]28/12/2021 : traduction de [B]The beaurin legacy[/B] débutée (par Mera)[/COLOR]
+[COLOR=Lime]28/12/2021 : traduction de [B]The Rediscovery of Kuldahar[/B] débutée (par deratiseur)[/COLOR]
+[COLOR=Lime]28/12/2021 : traduction de [B]Solaufein's Rescue[/B] débutée (par deratiseur)[/COLOR]
+
 
 Cela vous dérange que votre nom soit cité lors d'une traduction/relecture ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
 De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP.
