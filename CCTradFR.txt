@@ -1,3 +1,117 @@
+Voici la liste des mods des sagas Baldurs Gate, Icewind Dale et Planescape: Torment en cours de traduction.
+
+Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte).
+Je laisse la possibilité à quiconque le souhaite d'apporter des modifications et améliorations à cette liste via github : [url=https://github.com/Jazira33/CCTradFR]Lien[/url]
+ 
+
+
+[U][B]Légende :[/B][/U]
+
+[COLOR=MediumTurquoise][B]Bleu :[/B][/COLOR] Fini
+[COLOR=Lime][B]Vert :[/B][/COLOR] En cours
+[COLOR="#FF0000"][B]Rouge :[/B][/COLOR] Partiellement traduit, nécessite une mise à jour ou une "traification"
+
+
+
+[SIZE=4][COLOR=DarkRed][B]Sorties des nouvelles traductions / mises à jour :[/B][/COLOR][/SIZE]
+
+[COLOR=MediumTurquoise]19/02/2018 [B]Militia Officer[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]19/02/2018 [B]Mercenary[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]19/02/2018 [B]Charlatan[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]23/03/2018 [B]Kit Revisions[/B] (par valandil)[/COLOR]
+[COLOR=MediumTurquoise]11/04/2018 [B]Spellsword[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]02/07/2018 [B]Reveal Hidden Gameplay Options[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]05/09/2018 [B]IWDification[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]06/01/2019 [B]Spiritwalker - A Shaman Shapeshifter[/B] Kit (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]06/02/2019 [B]Trials of the Luremaster for BG2:EE[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]01/08/2019 [B]Chanter kit[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]03/08/2019 [B]Chaos Sorcerer Kit[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]31/08/2019 [B]Test your Mettle![/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]31/08/2019 [B]The Southern Edge[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]31/08/2019 [B]The Ooze Lounge[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]06/01/2020 [B]Afaaq, the Djinni Companion[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]01/05/2020 Mise à jour de [B]The Ooze lounge[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]28/05/2020 Mise à jour de [B]Alternatives[/B] (par Galathée et jazira)[/COLOR]
+[COLOR=MediumTurquoise]31/05/2020 Mise à jour de [B]Sword Coast Stratagems[/B] (par Freddy_Gwendo et jazira) [/COLOR]
+[COLOR=MediumTurquoise]01/06/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par Le Marquis et jazira)[/COLOR]
+[COLOR=MediumTurquoise]10/06/2020 Mise à jour de [B]The Southern Edge[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]12/06/2020 [B]Red Dragon Summoning Spell[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]17/06/2020 [B]Improved Haer'Dalis' Swords[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]19/06/2020 [B]Rupert the Dye merchant[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]02/08/2020 [B]Every mods and dogs[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]05/08/2020 [B]Darron[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]14/08/2020 [B]Tangled Oak Isle[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]17/08/2020 [B]Below & Below Inn[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]17/08/2020 [B]Night of the Blinking Dead[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]Tale of Our Lady Dreamless[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]Terror of the Skineater[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]FindIt-IWD[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]18/08/2020 [B]ForgeIt-IWD[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]30/08/2020 [B]One Pixel Productions[/B] (par Freddy_Gwendo)[/COLOR]
+[COLOR=MediumTurquoise]12/09/2020 [B]Quest Pack[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]22/11/2020 Mise à jour de [B]The Southern Edge[/B] (par Mornagest)[/COLOR]
+[COLOR=MediumTurquoise]22/11/2020 Mise à jour de [B]The Ooze lounge[/B] (par Mornagest)[/COLOR]
+[COLOR=MediumTurquoise]22/11/2020 Mise à jour de [B]Tangled Oak Isle[/B] (par Mornagest)[/COLOR]
+[COLOR=MediumTurquoise]18/12/2020 Mise à jour de [B]BG Mini Quests and Encounters[/B] (par jazira)[/COLOR]
+[COLOR=MediumTurquoise]05/01/2021 Mise à jour de [B]Unfinished Business[/B] (par jazira)[/COLOR]
+[COLOR=MediumTurquoise]16/05/2021 [B]Back to Brynnlaw[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]16/05/2021 [B]Dungeon Crawl[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]16/05/2021 [B]The Sellswords[/B] (par deratiseur et rivvers)[/COLOR]
+[COLOR=MediumTurquoise]09/09/2021 [B]Ascalons Questpack[/B] (par deratiseur, tonton-thon et jazira)[/COLOR]
+[COLOR=MediumTurquoise]16/09/2021 Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) [/COLOR]
+[COLOR=MediumTurquoise]10/10/2021 [B]Magic Store of Vergadain[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]10/10/2021 [B]NPC Generator[/B] (par deratiseur)[/COLOR]
+[COLOR=MediumTurquoise]27/10/2021 [B]Alora NPC[/B] (par tonton-thon, Freddy_Gwendo et jazira)[/COLOR]
+[COLOR=MediumTurquoise]29/10/2021 [B]Endless BG1[/B] (par Shodead, Freddy_Gwendo et Machiavélique)[/COLOR]
+[COLOR=MediumTurquoise]01/11/2021 [B]BG1 Romantic Encounters[/B] (par Le Marquis, Zooloo, Shaywen, Lothringen, Galathée et jazira)[/COLOR]
+[COLOR=MediumTurquoise]03/11/2021 Mise à jour de [B]Tweak Anthology[/B] (par Isaya, Freddy_Gwendo et jazira)[/COLOR]
+[COLOR=MediumTurquoise]20/12/2021 [B]The Calling[/B] (par JohnBob, Freddy_Gwendo et Machiavélique)[/COLOR]
+[COLOR=MediumTurquoise]20/12/2021 [B]Framed[/B] (par Johnbob)[/COLOR]
+[COLOR=MediumTurquoise]20/12/2021 [B]Another Fine Hell[/B] (par Johnbob et Machiavélique)[/COLOR]
+
+[COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Freely Resizeable Combat Log[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Level Up Icon Tweaks[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Ascension[/B] (par Selphira et jazira) (En relecture)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Enhanced Edition Trilogy[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Branwen for BG2[/B] (par JohnBob et jazira) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Expanded Thief Stronghold[/B] (par JohnBob et Freddy_Gwendo) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Weasels![/B] (par JohnBob) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Summon Bhaalspawn Sandra[/B] (par JohnBob) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Turnabout[/B] (par Shodead et JohnBob) (En relecture)[/COLOR]
+
+
+
+[SIZE=4][COLOR=DarkRed][B]Début de nouvelles traductions :[/B][/COLOR][/SIZE]
+
+[COLOR="#FF0000"]15/11/2014 : traduction d'[B]Yvette Romance[/B] débutée (En attente d'un repreneur)[/COLOR]
+[COLOR="#FF0000"]12/04/2020 : traduction de [B]Tome & Blood[/B] débutée (En attente d'un repreneur)[/COLOR]
+[COLOR="#FF0000"]03/12/2020 : traduction de [B]Brage's Redemption[/B] débutée (En attente d'un repreneur)[/COLOR]
+[COLOR=Lime]04/04/2004 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (par Le Marquis)[/COLOR]
+[COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
+[COLOR=Lime]11/01/2021 : traduction de [B]Freely Resizeable Combat Log[/B] débutée (par jazira)[/COLOR]
+[COLOR=Lime]11/01/2021 : traduction de [B]Level Up Icon Tweaks[/B] débutée (par jazira)[/COLOR]
+[COLOR=Lime]05/08/2021 : traduction de [B]Tyris Flare[/B] débutée (par Le Marquis)[/COLOR]
+[COLOR=Lime]22/08/2021 : traduction de [B]Gavin NPC for BG2[/B] débutée (par Machiavélique, Galathée et JohnBob)[/COLOR]
+[COLOR=Lime]25/11/2021 : traduction de [B]Expanded Thief Stronghold[/B] débutée (par JohnBob et Freddy_Gwendo)[/COLOR]
+[COLOR=Lime]25/11/2021 : traduction de [B]Weasels![/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]25/11/2021 : traduction de [B]Summon Bhaalspawn Sandra[/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]17/12/2021 : traduction de [B]Jastey's SoD Tweakpack[/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]17/12/2021 : traduction de [B]Road To Discovery[/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]27/12/2021 : traduction de [B]Turnabout[/B] débutée (par Shodead et JohnBob)[/COLOR]
+[COLOR=Lime]28/12/2021 : traduction de [B]The beaurin legacy[/B] débutée (par Mera)[/COLOR]
+[COLOR=Lime]28/12/2021 : traduction de [B]The Rediscovery of Kuldahar[/B] débutée (par deratiseur)[/COLOR]
+[COLOR=Lime]28/12/2021 : traduction de [B]Solaufein's Rescue[/B] débutée (par deratiseur)[/COLOR]
+
+
+Cela vous dérange que votre nom soit cité lors d'une traduction/relecture ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
+De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP.
+
+
+
+Voici l'ancien post, et sa liste obsolète des mods disponibles en français et en cours de traduction :
+[SPOILER]
+[COLOR="#FF0000"][SIZE=3]Cette liste est obsolète, pour voir tous les mods déjà disponibles en français rendez-vous sur : [url=https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/33406-projet-de-mise-jour-des-listes-de-mods-ie.html]la liste des mods IE[/url][/SIZE][/COLOR]
 Voici la liste des mods des sagas Baldurs Gate, Icewind Dale et Planescape: Torment disponibles en français ou en cours de traduction.
 
 Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte).
@@ -131,7 +245,6 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [U][B]Mods non traduits :[/B][/U]
 
-[SPOILER]
 [U][B]Traductions et corrections :[/B][/U]
 
 -
@@ -248,7 +361,6 @@ Casanova (espagnol)
 BG1 Regelmod (allemand)
 Knights (allemand)
 TWM (polonais)
-[/SPOILER]
 
 
 
@@ -537,7 +649,6 @@ TWM (polonais)
 
 [U][B]Mods non traduits :[/B][/U]
 
-[SPOILER]
 [U][B]Traductions et corrections :[/B][/U]
 
 -
@@ -1087,7 +1198,6 @@ Vendedor DLAN (espagnol)
 Wladca Zywiolow (polonais)
 Yeslick (allemand)
 [B]YLItems pack Final [/B][BG2] (mandarin ?) [url=http://www.shsforums.net/files/file/1268-ylitems-pack/]Lien[/url]
-[/SPOILER]
 
 
  
@@ -1156,7 +1266,6 @@ Yeslick (allemand)
  
 [U][B]Mods non traduits :[/B][/U]
 
-[SPOILER]
 [U][B]Traductions et corrections :[/B][/U]
 
 -
@@ -1226,7 +1335,6 @@ Thieving Mod for IWDEE
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
 
 -
-[/SPOILER]
 
 
 
@@ -1289,7 +1397,6 @@ Thieving Mod for IWDEE
 
 [U][B]Mods non traduits :[/B][/U]
 
-[SPOILER]
 [U][B]Traductions et corrections :[/B][/U]
 
 [B]Convert Torment to English [/B][PST] (Conceptuellement incompatible à la traduction) [url=https://sorcerers.net/Games/dl.php?s=PST&f=Torment/english.zip]Lien[/url]
@@ -1337,7 +1444,6 @@ Thieving Mod for IWDEE
 [U][B]Mods dans une langue autre que l'anglais :[/B][/U]
 
 -
-[/SPOILER]
 
 
 
@@ -1430,10 +1536,7 @@ Thieving Mod for IWDEE
 [COLOR=Lime]28/12/2021 : traduction de [B]The beaurin legacy[/B] débutée (par Mera)[/COLOR]
 [COLOR=Lime]28/12/2021 : traduction de [B]The Rediscovery of Kuldahar[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]28/12/2021 : traduction de [B]Solaufein's Rescue[/B] débutée (par deratiseur)[/COLOR]
-
-
-Cela vous dérange que votre nom soit cité lors d'une traduction/relecture ? N'hésitez pas à me le faire savoir par MP, votre droit à l'anonymat sera respecté.
-De même, si votre nom n'est pas mentionné lors d'une traduction/relecture, n'hésitez pas à me le faire savoir par MP.
+[/SPOILER]
 
 [SIZE=1]Ne pas cliquer ici ![/SIZE]
 [SPOILER]
