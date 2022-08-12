@@ -75,6 +75,8 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=MediumTurquoise]02/03/2022 [B]Expanded Thief Stronghold[/B] (par JohnBob et Freddy_Gwendo)[/COLOR]
 [COLOR=MediumTurquoise]04/03/2022 [B]Road To Discovery[/B] (par JohnBob et Machiavélique)[/COLOR]
 [COLOR=MediumTurquoise]05/03/2022 [B]Thieving Skills For Bards[/B] (par JohnBob)[/COLOR]
+[COLOR=MediumTurquoise]05/03/2022 [B]Skills and Abilities[/B] (par JohnBob)[/COLOR]
+[COLOR=MediumTurquoise]05/03/2022 [B]Forgotten Armament[/B] (par JohnBob)[/COLOR]
 [COLOR=MediumTurquoise]15/03/2022 [B]Enhanced Powergaming Scripts[/B] (par JohnBob)[/COLOR]
 [COLOR=MediumTurquoise]01/04/2022 [B]Bridge's Block[/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]14/04/2022 [B]Subrace[/B] (par JohnBob)[/COLOR]
@@ -99,6 +101,8 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=Lime]??/??/???? Mise à jour de [B]Enhanced Edition Trilogy[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Summon Bhaalspawn Sandra[/B] (par JohnBob) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? Mise à jour de [B]Auror kit for the Ranger Class[/B] (par JohnBob) (En relecture)[/COLOR]
+[COLOR=Lime]??/??/???? [B]Tipun_Gui[/B] (par JohnBob) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? [B]WarslingSniperKit[/B] (par JohnBob) (En relecture)[/COLOR]
 
 
 
@@ -106,26 +110,24 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 
 [COLOR="#FF0000"]15/11/2014 : traduction d'[B]Yvette Romance[/B] débutée (En attente d'un repreneur)[/COLOR]
 [COLOR="#FF0000"]12/04/2020 : traduction de [B]Tome & Blood[/B] débutée (En attente d'un repreneur)[/COLOR]
-[COLOR="#FF0000"]03/12/2020 : traduction de [B]Brage's Redemption[/B] débutée (En attente d'un repreneur)[/COLOR]
+[COLOR="#FF0000"]03/12/2020 : traduction de [B]Brage's Redemption[/B] débutée (En attente d'un repreneur - textes traduits déjà présents dans le repo Github)[/COLOR]
 [COLOR=Lime]04/04/2004 : traduction de [B]Tortured Souls (version pour BP)[/B] débutée (par Le Marquis)[/COLOR]
 [COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Freely Resizeable Combat Log[/B] débutée (par jazira)[/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Level Up Icon Tweaks[/B] débutée (par jazira)[/COLOR]
 [COLOR=Lime]01/07/2021 : correction de la traduction de Baldur's Gate II : Enhanced Edition [B]« CorrectfrBG2EE »[/B] débutée (par lefreut, jazira, Elisabeth, GrootIsntTree, Machiavélique, Mickabouille, Mera, JohnBob, Freddy_Gwendo, deratiseur, Le Marquis, Nixou, Sloth, Sanctifer)[/COLOR]
 [COLOR=Lime]05/08/2021 : traduction de [B]Tyris Flare[/B] débutée (par Le Marquis)[/COLOR]
+[COLOR=Lime]11/08/2021 : traduction de [B]The Undying[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]22/08/2021 : traduction de [B]Gavin NPC for BG2[/B] débutée (par Machiavélique, Galathée, Graoumf et JohnBob)[/COLOR]
 [COLOR=Lime]25/11/2021 : traduction de [B]Summon Bhaalspawn Sandra[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]28/12/2021 : traduction de [B]The Rediscovery of Kuldahar[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]28/12/2021 : traduction de [B]Solaufein's Rescue[/B] débutée (par deratiseur)[/COLOR]
+[COLOR=Lime]13/01/2022 : traduction de [B]ShukBGEE[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]31/03/2022 : traduction de [B]Shades of the Sword Coast[/B] débutée (par Shodead)[/COLOR]
+[COLOR=Lime]14/04/2022 : traduction de [B]Tipun_Gui[/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]07/05/2022 : traduction de [B]Themed_Tweaks[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]03/07/2022 : correction de la traduction de Baldur's Gate : Enhanced Edition et Siege of Dragonspear [B]« CorrectfrBG1EE »[/B] débutée (par lefreut et jazira)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]Themed_Tweaks[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]The Undying[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]ShukBGEE[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]Tipun_Gui[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]Skills and Abilities[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]Forgotten Armament[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]11/08/2022 : traduction de [B]WarslingSniperKit[/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]21/07/2022 : traduction de [B]WarslingSniperKit[/B] débutée (par JohnBob)[/COLOR]
 
 
 
