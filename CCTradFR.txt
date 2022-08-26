@@ -141,6 +141,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=Lime]16/08/2020 : traduction de [B]Will to Power[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]NPC_Enhanced for Everyone[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Might and Guile[/B] débutée (Par Mickabouille)[/COLOR]
+[COLOR=Lime]25/08/2022 : traduction de [B]Artisan's KitPack[/B] débutée (par loupgris)[/COLOR]
 
 
 
