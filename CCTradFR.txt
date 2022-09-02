@@ -3,6 +3,8 @@ Voici la liste des mods des sagas Baldurs Gate, Icewind Dale et Planescape: Torm
 Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte).
 Je laisse la possibilité à quiconque le souhaite d'apporter des modifications et améliorations à cette liste via github : [url=https://github.com/Jazira33/CCTradFR]Lien[/url]
  
+Pour avoir accès à la liste complète des mods traduits en français avec une jolie interface interactive, rendez-vous sur : [url=https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/33406-projet-de-mise-jour-des-listes-de-mods-ie.html]la liste des mods IE[/url]
+
 
 
 [U][B]Légende :[/B][/U]
@@ -142,6 +144,7 @@ Je laisse la possibilité à quiconque le souhaite d'apporter des modifications 
 [COLOR=Lime]16/08/2020 : traduction de [B]NPC_Enhanced for Everyone[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Might and Guile[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]25/08/2022 : traduction de [B]Artisan's KitPack[/B] débutée (par loupgris)[/COLOR]
+[COLOR=Lime]31/08/2022 : traduction de [B]Tactics Remix[/B] débutée (par JohnBob)[/COLOR]
 
 
 
