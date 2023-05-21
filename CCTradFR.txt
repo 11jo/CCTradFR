@@ -99,6 +99,7 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=MediumTurquoise]19/08/2022 [B]OlvynTweaks[/B] (par deratiseur)[/COLOR]
 [COLOR=MediumTurquoise]07/09/2022 [B]Bubbs Spell Menu Extended[/B] (par JohnBob)[/COLOR]
 [COLOR=MediumTurquoise]16/11/2022 [B]Random Graion Tweaks[/B] (par JohnBob)[/COLOR]
+[COLOR=MediumTurquoise]10/05/2023 Mise à jour de [B]Night of the Blinking Dead[/B] (par deratiseur)[/COLOR]
 
 [COLOR=Lime]??/??/???? Mise à jour de [B]Sword Coast Stratagems[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Freely Resizeable Combat Log[/B] (par jazira) (Entre les mains du concepteur)[/COLOR]
@@ -126,7 +127,7 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=Lime]25/04/2020 : traduction de [B]Kelsey[/B] débutée (par Galathée)[/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Freely Resizeable Combat Log[/B] débutée (par jazira)[/COLOR]
 [COLOR=Lime]11/01/2021 : traduction de [B]Level Up Icon Tweaks[/B] débutée (par jazira)[/COLOR]
-[COLOR=Lime]01/07/2021 : correction de la traduction de Baldur's Gate II : Enhanced Edition [B]« CorrectfrBG2EE »[/B] débutée (par lefreut, jazira, Elisabeth, GrootIsntTree, Machiavélique, Mickabouille, Mera, JohnBob, Freddy_Gwendo, deratiseur, Le Marquis, Nixou, Sloth, Sanctifer et loupgris, Streen)[/COLOR]
+[COLOR=Lime]01/07/2021 : correction de la traduction de Baldur's Gate II : Enhanced Edition [B]« CorrectfrBG2EE »[/B] débutée (par lefreut, jazira, Elisabeth, GrootIsntTree, Machiavélique, Mickabouille, Mera, JohnBob, Freddy_Gwendo, deratiseur, Le Marquis, Nixou, Sloth, Sanctifer, loupgris et Streen)[/COLOR]
 [COLOR=Lime]05/08/2021 : traduction de [B]Tyris Flare[/B] débutée (par Le Marquis)[/COLOR]
 [COLOR=Lime]11/08/2021 : traduction de [B]The Undying[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]22/08/2021 : traduction de [B]Gavin NPC for BG2[/B] débutée (par Machiavélique, Galathée, Graoumf et JohnBob)[/COLOR]
@@ -139,7 +140,6 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=Lime]07/05/2022 : traduction de [B]Themed_Tweaks[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]03/07/2022 : correction de la traduction de Baldur's Gate : Enhanced Edition et Siege of Dragonspear [B]« CorrectfrBG1EE »[/B] débutée (par lefreut, jazira, Elisabeth et GrootIsntTree)[/COLOR]
 [COLOR=Lime]21/07/2022 : traduction de [B]WarslingSniperKit[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]??/??/???? : traduction de [B]Snowytoes[/B] envisagée (par deratiseur)[/COLOR]
 [COLOR=Lime]15/08/2020 : traduction de [B]Tome & Blood[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Faiths and Powers[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Will to Power[/B] débutée (Par Mickabouille)[/COLOR]
@@ -147,6 +147,7 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=Lime]16/08/2020 : traduction de [B]Might and Guile[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]25/08/2022 : traduction de [B]Artisan's KitPack[/B] débutée (par loupgris)[/COLOR]
 [COLOR=Lime]31/08/2022 : traduction de [B]Tactics Remix[/B] débutée (par JohnBob)[/COLOR]
+[COLOR=Lime]07/05/2023 : traduction de [B]Snowytoes[/B] débutée (par deratiseur)[/COLOR]
 
 
 
