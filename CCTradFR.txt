@@ -153,6 +153,7 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=Lime]16/08/2020 : traduction de [B]NPC_Enhanced for Everyone[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Might and Guile[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]25/08/2022 : traduction de [B]Artisan's KitPack[/B] débutée (par loupgris)[/COLOR]
+[COLOR=Lime]07/01/2023 : Mise à jour de [B]BG1 NPC Project[/B] débutée (par jazira)[/COLOR]
 [COLOR=Lime]01/05/2023 : traduction de [B]Infinity UI++[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]07/05/2023 : traduction de [B]Snowytoes[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]14/05/2023 : traduction de [B]Imoen Romance[/B] débutée (par Nitrick, Spartan 117 et Johnbob)[/COLOR]
