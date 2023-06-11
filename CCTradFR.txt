@@ -127,6 +127,8 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=Lime]??/??/???? [B]The Improved Volcano! Pack[/B] (par JohnBob) (En attente de release)[/COLOR]
 [COLOR=Lime]??/??/???? [B]Tactics Remix[/B] (par JohnBob) (Entre les mains du concepteur)[/COLOR]
 [COLOR=Lime]??/??/???? [B]IWD EET Integration[/B] (par JohnBob) (Entre les mains du concepteur)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]Ascalons Questpack[/B] (par deratiseur et jazira) (En attente de release)[/COLOR]
+[COLOR=Lime]??/??/???? Mise à jour de [B]BG1 Romantic Encounters[/B] (par Le Marquis) (En attente de release)[/COLOR]
 
 
 
@@ -141,13 +143,13 @@ Pour avoir accès à la liste complète des mods traduits en français avec une 
 [COLOR=Lime]01/07/2021 : correction de la traduction de Baldur's Gate II : Enhanced Edition [B]« CorrectfrBG2EE »[/B] débutée (par lefreut, jazira, Elisabeth, GrootIsntTree, Machiavélique, Mickabouille, Mera, JohnBob, Freddy_Gwendo, deratiseur, Le Marquis, Nixou, Sloth, Sanctifer, loupgris, Streen, coucoach, Selphira et rivvers)[/COLOR]
 [COLOR=Lime]05/08/2021 : traduction de [B]Tyris Flare[/B] débutée (par Le Marquis)[/COLOR]
 [COLOR=Lime]11/08/2021 : traduction de [B]The Undying[/B] débutée (par JohnBob)[/COLOR]
-[COLOR=Lime]22/08/2021 : traduction de [B]Gavin NPC for BG2[/B] débutée (par Machiavélique, Galathée, Graoumf et JohnBob)[/COLOR]
+[COLOR=Lime]22/08/2021 : traduction de [B]Gavin NPC for BG2[/B] débutée (par Machiavélique, Galathée et JohnBob)[/COLOR]
 [COLOR=Lime]25/11/2021 : traduction de [B]Summon Bhaalspawn Sandra[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]28/12/2021 : traduction de [B]Solaufein's Rescue[/B] débutée (par deratiseur)[/COLOR]
 [COLOR=Lime]13/01/2022 : traduction de [B]ShukBGEE[/B] débutée (par JohnBob)[/COLOR]
 [COLOR=Lime]31/03/2022 : traduction de [B]Shades of the Sword Coast[/B] débutée (par Shodead)[/COLOR]
 [COLOR=Lime]23/04/2022 : traduction de [B]Tweaks and tricks[/B] débutée (par deratiseur)[/COLOR]
-[COLOR=Lime]03/07/2022 : correction de la traduction de Baldur's Gate : Enhanced Edition et Siege of Dragonspear [B]« CorrectfrBG1EE »[/B] débutée (par lefreut, jazira, Elisabeth, GrootIsntTree, Leilu, Johnbob, Selphira et rivvers)[/COLOR]
+[COLOR=Lime]03/07/2022 : correction de la traduction de Baldur's Gate : Enhanced Edition et Siege of Dragonspear [B]« CorrectfrBG1EE »[/B] débutée (par lefreut, jazira, Elisabeth, GrootIsntTree, Leilu, Johnbob, Selphira, rivvers et Krabator)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Faiths and Powers[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]Will to Power[/B] débutée (Par Mickabouille)[/COLOR]
 [COLOR=Lime]16/08/2020 : traduction de [B]NPC_Enhanced for Everyone[/B] débutée (Par Mickabouille)[/COLOR]
